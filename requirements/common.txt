@@ -1,0 +1,10 @@
+Django==3.2.7
+django_ckeditor==6.2.0
+django-cors-headers==3.10.0
+djangorestframework==3.12.4
+drf_yasg==1.20.0
+google_api_python_client==2.83.0
+google-auth-oauthlib==1.0.0
+Pillow==9.5.0
+python-decouple==3.8
+qrcode==7.4.2
